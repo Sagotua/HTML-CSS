@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Form</title>
+        <link rel="stylesheet" href="style.css">
+        <style>
+            fieldset {
+                border: 1px solid grey;
+                padding: 20px;
+                margin-bottom: 20px;
+            }
+
+            label {
+                width: 150px;
+                display: inline-block;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="wrapper">
+    	    <div id="main">
+    		    <div id="container">
+    			    <div id="content" role="main">
+                        <header>
+                            <h1>Order Form</h1>
+                        </header>
+
+                        <form method="POST">
+                            <!-- General info start-->
+                        <div>
+                            <fieldset>
+                                <legend>General info</legend>
+                                <label for="email">Email</label>
+                                <input id="email" type="email" name="email" placeholder="your@email.com" required/>
+                                <br>
+                                <label for="login">Login</label>
+                                <input id="login" type="text" name="login" placeholder="Login" pattern="[A-Za-z1-3]" required/>
+                                <br>
+                                <label for="password">Password</label>
+                                <input id="password" type="password" name="password" placeholder="Password" required/>
+                                <br>
+                            </fieldset>
+                    </div>
+                            <!-- General info end-->
+
+                            <!-- User info start-->
+                            <div>
+                                <fieldset>
+                                    <legend>User info</legend>
+                                    <label for="first">First name</label>
+                                    <input id="first" type="text" name="first" placeholder="John" pattern="[A-Za-z]" required/>
+                                    <br>
+                                    <label for="second">Second name</label>
+                                    <input id="second" type="text" name="second" placeholder="Doe" pattern="[A-Za-z]" disabled/>
+                                    <br>
+                                    <label for="checkbox">Gender</label>
+                                    Male
+                                    <input id="checkbox" type="checkbox" name="checkbox" value="male" checked> Female
+                                    <input type="checkbox" name="checkbox" value="female">
+                                    <br>
+                                    <label for="age">Age</label>
+                                    <input id="age" type="number" placeholder="32" required/>
+                                    <br>
+                                    <label for="about">About me</label>
+                                    <textarea id="about" name="bout" cols="19" rows="5" readonly></textarea>
+                                </fieldset>
+                            </div>
+                            <!-- User info end-->
+
+                            <!-- Order info start-->
+                            <div>
+                                <fieldset>
+                                    <legend>Order info</legend>
+                                    <label for="product">Product</label>
+                                    <select id="product" name="product">
+                                        <option value="iphone">Iphone</option>
+                                        <option value="samsung">Samsung</option>
+                                        <option value="lg">lg</option>
+                                    </select>
+                                    <br>
+                                    <label for="frontcolor">Front Color</label>
+                                    Black
+                                    <input id="frontcolor" type="radio" name="frontcolor" value="black" checked> Pink
+                                    <input type="radio" name="frontcolor" value="pink"> Gold
+                                    <input type="radio" name="frontcolor" value="gold">
+                                    <br>
+                                    <label for="backcolor">Back-side color</label>
+                                    <input id="backcolor" type="color" name="backcolor">
+                                    <br>
+                                    <label for="delivery">Delivery date</label>
+                                    <input id="delivery" type="date" required/>
+                                </fieldset>
+                            </div>
+                            <!-- Order info form -->
+
+                            <!-- Add buttons -->
+                            <div>
+                                    <input type="reset" value="Reset">
+                                    <input type="submit" value="Submit">
+                            </div>
+                     </form>
+                   </div>
+              </div>
+          </div>
+      </div>
+    </body>
+</html>
