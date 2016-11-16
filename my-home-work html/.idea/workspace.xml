@@ -24,13 +24,13 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+            <state relative-caret-position="544">
+              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
               <folding>
-                <element signature="e#5776#5780#0" expanded="true" />
-                <element signature="e#5814#5818#0" expanded="true" />
-                <element signature="e#5844#5848#0" expanded="true" />
-                <element signature="e#5851#5855#0" expanded="true" />
+                <element signature="e#5798#5802#0" expanded="true" />
+                <element signature="e#5836#5840#0" expanded="true" />
+                <element signature="e#5866#5870#0" expanded="true" />
+                <element signature="e#5873#5877#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -51,8 +51,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -97,28 +97,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="my-home-work" />
+              <option name="myItemId" value="my-home-work html" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="my-home-work" />
+              <option name="myItemId" value="my-home-work html" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="my-home-work" />
+              <option name="myItemId" value="my-home-work html" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -188,11 +188,12 @@
       <updated>1479159345169</updated>
       <workItem from="1479159346884" duration="9123000" />
       <workItem from="1479168587384" duration="256000" />
+      <workItem from="1479330722886" duration="108000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9379000" />
+    <option name="totallyTimeSpent" value="9487000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -238,10 +239,31 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#5776#5780#0" expanded="true" />
-            <element signature="e#5814#5818#0" expanded="true" />
-            <element signature="e#5844#5848#0" expanded="true" />
-            <element signature="e#5851#5855#0" expanded="true" />
+            <element signature="e#5798#5802#0" expanded="true" />
+            <element signature="e#5836#5840#0" expanded="true" />
+            <element signature="e#5866#5870#0" expanded="true" />
+            <element signature="e#5873#5877#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="10135" selection-start-line="0" selection-start-column="10135" selection-end-line="0" selection-end-column="10135" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#5798#5802#0" expanded="true" />
+            <element signature="e#5836#5840#0" expanded="true" />
+            <element signature="e#5866#5870#0" expanded="true" />
+            <element signature="e#5873#5877#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -264,13 +286,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+        <state relative-caret-position="544">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding>
-            <element signature="e#5776#5780#0" expanded="true" />
-            <element signature="e#5814#5818#0" expanded="true" />
-            <element signature="e#5844#5848#0" expanded="true" />
-            <element signature="e#5851#5855#0" expanded="true" />
+            <element signature="e#5798#5802#0" expanded="true" />
+            <element signature="e#5836#5840#0" expanded="true" />
+            <element signature="e#5866#5870#0" expanded="true" />
+            <element signature="e#5873#5877#0" expanded="true" />
           </folding>
         </state>
       </provider>
